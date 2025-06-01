@@ -7,10 +7,10 @@ You can contact us via [LinkedIn](https://www.linkedin.com/in/kim-kyunghyun-9236
 
 ---
 
-Source code repository - [https://www.github.com/iloysoft/](https://www.github.com/iloysoft/)
+Source code repository - [https://github.com/iloysoft/](https://github.com/iloysoft/)
 
 ---
 
-Personal source code repository - [https://www.github.com/iloy/](https://www.github.com/iloy/)
+Personal source code repository - [https://github.com/iloy/](https://github.com/iloy/)
 
 Personal blog - [https://iloy.github.io/](https://iloy.github.io/)
