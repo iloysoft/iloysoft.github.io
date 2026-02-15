@@ -3,6 +3,8 @@
 iloysoft is a software house specialized in custom software development. \
 [What is a software house?](https://www.google.com/search?q=what+is+a+software+house%3F)
 
+Please be advised that iloysoft has temporarily suspended all operations, as our founder has transitioned to a full-time CTO role at another organization. We are not accepting any new inquiries or projects at this time.
+
 You can contact us via [LinkedIn](https://www.linkedin.com/in/kim-kyunghyun-923647b).
 
 ---
