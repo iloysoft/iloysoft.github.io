@@ -1,4 +1,3 @@
-# iloysoft LC.
 
 iloysoft is a software house specialized in custom software development. \
 [What is a software house?](https://www.google.com/search?q=what+is+a+software+house%3F)
@@ -16,3 +15,7 @@ Source code repository - [https://github.com/iloysoft/](https://github.com/iloys
 Personal source code repository - [https://github.com/iloy/](https://github.com/iloy/)
 
 Personal blog - [https://iloy.github.io/](https://iloy.github.io/)
+
+---
+
+iloysoft LC.
