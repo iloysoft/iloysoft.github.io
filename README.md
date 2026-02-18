@@ -12,7 +12,7 @@ Consequently, iloysoft is ceasing all new business developments and client engag
 
 ---
 
-You can contact us via [LinkedIn](https://www.linkedin.com/in/kim-kyunghyun-923647b).
+You can contact us via [LinkedIn](https://www.linkedin.com/in/kyunghyun-kim-923647b).
 
 ---
 
