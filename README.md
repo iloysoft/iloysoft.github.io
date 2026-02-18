@@ -6,7 +6,7 @@ iloysoft is a software house specialized in custom software development. \
 
 ### Announcement of Formal Suspension of Operations
 
-Please be advised that iloysoft has officially entered a period of strategic suspension of operations, effective immediately. This decision follows the appointment of our founder to a full-time CTO role at an external organization.
+Please be advised that iloysoft has officially entered a period of strategic suspension of operations, effective immediately. This decision follows the appointment of our founder to a full-time leadership role at an external organization.
 
 Consequently, iloysoft is ceasing all new business developments and client engagements until further notice. We extend our sincere gratitude for the professional partnerships we have shared and appreciate your understanding during this period of transition.
 
